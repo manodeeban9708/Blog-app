@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "slug": "getting-started-with-nextjs",
+    "title": "Getting Started with Next.js",
+    "author": "Jane Doe",
+    "date": "2023-07-20",
+    "excerpt": "A quick guide to setting up your first Next.js project and understanding its core features.",
+    "content": "Next.js is a powerful React framework that enables server-side rendering and static site generation..."
+  },
+  {
+    "id": "2",
+    "slug": "tailwind-css-tips-and-tricks",
+    "title": "Tailwind CSS: Tips and Tricks",
+    "author": "John Smith",
+    "date": "2023-07-25",
+    "excerpt": "Unlock the full potential of Tailwind CSS with these practical tips for faster development.",
+    "content": "Tailwind CSS is a utility-first CSS framework that allows you to rapidly build custom designs..."
+  },
+  {
+    "id": "3",
+    "slug": "markdown-in-nextjs",
+    "title": "Using Markdown in Next.js",
+    "author": "Alex Johnson",
+    "date": "2023-07-30",
+    "excerpt": "Learn how to render Markdown content in a Next.js application using react-markdown.",
+    "content": "# Markdown Heading\n\nThis is **Markdown** content rendered in Next.js!"
+  }
+]
